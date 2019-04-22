@@ -1,2 +1,2 @@
 # StrungeWorld
-Web-Development
+Data Services | GIS | African Studies Libraianship
